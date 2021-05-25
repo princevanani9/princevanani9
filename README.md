@@ -6,11 +6,9 @@
 
 
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **vananiprince9@gmail.com**
  
  
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a  class="btn btn-success" href="https://www.hackerrank.com/@vananiprince9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="vananiprince9" height="30" width="40" /></a>
-</p>
+
