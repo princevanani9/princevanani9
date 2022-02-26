@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Vanani</h1>
 <h3 align="center">Live what you learn</h3>
 <h2>🎯I’m interested in MERN Stack, Machine Learning, Mobile App Development</h2>
-<h2>⚠ Currently learning Data Data Analytics & Machine Learning</h2>
+<h2>⚠ I’m Currently learning Data Analytics & Machine Learning</h2>
 <h3 align="left">Skills:</h3>
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
 <code><img title="CSS" height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" /></code>
