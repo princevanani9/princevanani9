@@ -17,6 +17,7 @@
 <code> <img title="PHP" height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/></code>
 <code> <img title="git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
 <code> <img title="linux" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
+  <code> <img title="DART" height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" /> </code>
   <br/>
 <h3 align="left">Statistics:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=princevanani9&count_private=true&show_icons=true&theme=radical"/>
