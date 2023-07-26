@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Vanani</h1>
 <h3 align="center">Live what you learn</h3>
-<h2>🎯I’m interested in MERN Stack, Machine Learning, Mobile App Development</h2>
-<h2>⚠ I’m Currently learning Data Analytics & Machine Learning</h2>
+<h2>🎯I’m interested in MERN Stack</h2>
 <h3 align="left">Skills:</h3>
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
 <code><img title="CSS" height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" /></code>
@@ -18,7 +17,6 @@
 <code> <img title="PHP" height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/></code>
 <code> <img title="git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
 <code> <img title="linux" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
-  <code> <img title="DART" height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" /> </code>
   <br/>
 <h3 align="left">Statistics:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=princevanani9&count_private=true&show_icons=true&theme=radical"/>
